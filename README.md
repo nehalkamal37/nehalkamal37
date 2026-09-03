@@ -1,4 +1,4 @@
-## Hi there 👋   # 👩‍💻 Nehal Kamal
+ # 👩‍💻 Nehal Kamal
 
 **Software Developer | .NET Backend | React | Laravel**
 
